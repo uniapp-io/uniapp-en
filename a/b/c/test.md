@@ -1,5 +1,5 @@
-uni-app是以移动为先的理念诞生的。从uni-app 2.9起，提供了PC等宽屏的适配方案，完成了全端统一。
+The grounds were covered with dark green grass through which stretched a straight white stone path .
 
-PC适配和屏幕适配略有差异。PC适配包含`宽屏适配`和`uni-app内置组件适配PC`两方面的工作。
+On both sides of the path were planted what I believed to be poinsettias.
 
-uni-app内置组件的PC适配，又包括`PC交互习惯的UI调整`和`非webkit浏览器适配`这两部分。这块工作不在本文的讨论范围内，尤其是开发者在PC端可以随意使用普通html元素和组件，不局限于uni-app内置组件。所以本文重点讨论屏幕适配。
+Now the flowers were surrounded by pinkish leaves instead of bright red ones as they should have been.
